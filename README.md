@@ -1,10 +1,12 @@
-
+[![MasterHead](https://tse3.mm.bing.net/th?id=OIP.lsdxNjbDanr6LCIgaMplnQHaGD&pid=Api&P=0&w=209&h=172)](https://NIMO52.github.io)
 <h1 align="center">Hola! 👋, I'm NISHITH MAHATO</h1>
 <h3 align="center">A passionate enthusiastic learner in the field of coding and all other supercool stuff in this field of technology... and interested in learning the coding languages and all others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimo52&label=Profile%20views&color=0e75b6&style=flat" alt="nimo52" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimo52" alt="nimo52" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/nishithmahato3" target="blank"><img src="https://img.shields.io/twitter/follow/nishithmahato3?logo=twitter&style=for-the-badge" alt="nishithmahato3" /></a> </p>
 
