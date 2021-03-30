@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **LOL🤣**
 
-<img align="left" alt="Coding" width="400" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">
+
 
 
 <h3 align="left">Connect with me:</h3>
