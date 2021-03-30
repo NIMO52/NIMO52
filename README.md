@@ -22,6 +22,9 @@
 
 - ⚡ Fun fact **LOL🤣**
 
+<img align="left" alt="Coding" width="400" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nishithmahato3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishithmahato3" height="30" width="40" /></a>
